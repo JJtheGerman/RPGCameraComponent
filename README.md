@@ -1,6 +1,6 @@
 # RPGCameraComponent
 A camera component mimicking basic behavior of most RPGs or games like Foxhole.  
-*Mainly an exercise in completely encapsulating a component by letting it handle input and sub component spawning itself.*  
+*Mainly a test in completely encapsulating a component by letting it handle input and sub component spawning itself.*  
 
 ---
 
