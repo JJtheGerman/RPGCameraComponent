@@ -4,6 +4,10 @@ A camera component mimicking basic behavior of most RPGs or games like Foxhole.
 
 ---
 
+![1](Resources/RPGComponentPreview.gif)  
+
+---
+
 #### Why?
 I noticed a while ago that the bigger projects get the more messy the character class becomes. Despite using components  
 the character will baloon to thousands of lines of entangled code.  
